@@ -1,16 +1,42 @@
-## Hi there 👋
+# Rakshith
 
-<!--
-**Therakshith-dev/Therakshith-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iOS (SwiftUI) and Go backend developer.  
+Focused on systems design, performance, and scalable architecture.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+
+- Building SwiftUI applications  
+- Developing REST APIs in Go  
+- Studying systems and low-level fundamentals  
+- Solving algorithmic problems  
+
+---
+
+## Technical Focus
+
+- Swift / SwiftUI  
+- Go (net/http)  
+- PostgreSQL  
+- Systems design  
+- Clean architecture  
+- Performance optimization  
+
+---
+
+## Projects
+
+- **ZFlight** — An iOS application for calculating flight routes and retrieving METAR data  
+- Go Backend Services  
+
+---
+
+## Contact
+
+Email: theraksith.dev@gmail.com  
+GitHub: https://github.com/Therakshith-dev  
+
+---
+
+Building clean systems with long-term thinking.
