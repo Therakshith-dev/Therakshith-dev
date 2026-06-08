@@ -39,4 +39,4 @@ GitHub: https://github.com/Therakshith-dev
 
 ---
 
-Building clean systems with long-term thinking.
+Building clean systems with long term thinking.
