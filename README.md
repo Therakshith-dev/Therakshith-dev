@@ -8,9 +8,8 @@ Focused on systems design, performance, and scalable architecture.
 ## Current Work
 
 - Building SwiftUI applications  
-- Developing REST APIs in Go  
-- Studying systems and low-level fundamentals  
-- Solving algorithmic problems  
+- Developing REST/graphQL/gRPC APIs in Go  
+- Interested in DevOps
 
 ---
 
@@ -27,8 +26,10 @@ Focused on systems design, performance, and scalable architecture.
 
 ## Projects
 
-- **ZFlight** — An iOS application for calculating flight routes and retrieving METAR data  
-- Go Backend Services  
+- **ZFlight** — An iOS application for calculating flight routes and retrieving METAR,TAF data
+- ZFlight features a data integestion pipeline using available AIRAC cycles and other third party providers .
+- A light yet proficient backend with net/http,pgx driver used for database retrieval reaching upto 200k RPS .
+- ZFlight calculates great circle route using origin and destination ICAO/IATA codes .
 
 ---
 
@@ -39,4 +40,4 @@ GitHub: https://github.com/Therakshith-dev
 
 ---
 
-Building clean systems with long term thinking.
+Building clean systems for frugality and effeciency . 
