@@ -27,7 +27,7 @@ Focused on systems design, performance, and scalable architecture.
 ## Projects
 
 - **ZFlight** — An iOS application for calculating flight routes and retrieving METAR,TAF data
-- ZFlight features a data integestion pipeline using available AIRAC cycles and other third party providers .
+- ZFlight features a data ingestion pipeline using available AIRAC cycles and other third party providers .
 - A light yet proficient backend with net/http,pgx driver used for database retrieval reaching upto 200k RPS .
 - ZFlight calculates great circle route using origin and destination ICAO/IATA codes .
 
@@ -40,4 +40,4 @@ GitHub: https://github.com/Therakshith-dev
 
 ---
 
-Building clean systems for frugality and effeciency . 
+Building clean systems for frugality and efficiency . 
